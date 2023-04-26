@@ -5,6 +5,8 @@
 #include "stdlib.h"
 #include "stdio.h"
 
+// кря кря порчу Пашам код
+
 int main (int argc, char **argv)
 {
  int fdpub, fdpriv, fd;
